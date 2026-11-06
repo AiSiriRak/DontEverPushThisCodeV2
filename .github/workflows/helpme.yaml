@@ -214,5 +214,6 @@ jobs:
           name: trivy-results
           path: trivy-results.sarif
 
+          
   # GATE#4: IaC scanning (Skipped)
   # GATE#5: DAST (Skipped)
